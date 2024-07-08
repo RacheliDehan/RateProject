@@ -2,9 +2,8 @@
 Exchange Rates Website
 
 How to Run the Project
-1. Clone the Repository
-2. Download react moduls- run: npm install
-3. Run: npm run dev
-
-4. Run: 
-   
+- Clone the Repository
+- Run the Frontend
+  -  Run :npm install
+  -  Run: npm run dev
+- Run the Backend
